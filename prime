@@ -9,13 +9,13 @@ for(let p=0;p<N;p++){
 
 if(i%p==0){
 
-  M--
+  M++
     
 }
   
 }
 
-}if(M==0){
+}if(M==2){
   
 console.log("Prime")
 
