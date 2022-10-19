@@ -1,0 +1,26 @@
+let M =0;
+
+let N =10;
+
+
+for(i=1; i<N;i++){
+
+for(let p=0;p<N;p++){
+
+if(i%p==0){
+
+  M--
+    
+}
+  
+}
+
+}if(M==0){
+  
+console.log("Prime")
+
+}else{
+  
+console.log("Not Prime")
+
+}
